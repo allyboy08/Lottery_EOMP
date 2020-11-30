@@ -1,0 +1,13 @@
+
+Name: fred
+Age: 72
+Results:[15, 46, 41, 26, 10, 24]
+You won: Nothing
+Results:[22, 13, 37, 45, 7, 8]
+You won: Nothing
+Name: alex
+Age: 19
+Name: alex
+Age: 55
+Results:[1, 48, 41, 32, 38, 28]
+You won: Nothing
