@@ -11,3 +11,11 @@ Name: alex
 Age: 55
 Results:[1, 48, 41, 32, 38, 28]
 You won: Nothing
+Results:[8, 46, 7, 3, 45, 25]
+You won: R20.00
+Results:[8, 46, 7, 3, 45, 25]
+You won: R2,384.00
+Results:[8, 46, 7, 3, 45, 25]
+You won: R10 000 000.00
+Name: 
+Age: 16
